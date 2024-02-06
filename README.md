@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Wajackoya
 #### (⁠θ⁠‿⁠θ⁠)
-![(⁠θ⁠‿⁠θ)]
+
 
 **I am still a student.**
 **Interested in bots**
@@ -11,7 +11,7 @@ Skills: Still learning
 
 - 🔭 I’m currently working on WhatsApp bot 
 - 🌱 I’m currently learning Java 
-- 📫 How to reach me: **254102510747** -Whatsapp 
+- 📫 How to reach me: **254102510747** -Whatsapp 🇰🇪
 - 😄 Pronouns: He 
 
 
