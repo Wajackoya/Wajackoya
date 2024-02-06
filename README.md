@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Wajackoya
 #### (⁠θ⁠‿⁠θ⁠)
-![(⁠θ⁠‿⁠θ⁠)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![(⁠θ⁠‿⁠θ)]
 
 **I am still a student.**
 **Interested in bots**
